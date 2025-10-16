@@ -39,5 +39,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Hannah M. Schlüter, Jeremy Tan, Benjamin Hou, Bernhard Kainz: "*Natural Synthetic Anomalies for Self-Supervised Anomaly Detection and Localization.*" ECCV (2022) [[pdf]](https://arxiv.org/pdf/2109.15222) [[code]](https://github.com/hmsch/natural-synthetic-anomalies)
 
 ## Datasets
-
++ MVTec AD:  5354 high-resolution RGB images across 15 categories — 10 object classes (e.g., bottle, cable, metal nut) and 5 texture classes (e.g., carpet, leather, tile). Each category includes a variety of anomaly types such as scratches, dents, contaminations, or missing parts, totaling 73 distinct defect types. [[link]](https://www.mvtec.com/company/research/datasets/mvtec-ad/)
++ VisA:  12 subsets with 10,821 images (9,621 normal, 1,200 anomalous) covering diverse objects. Anomalies involve surface defects like scratches and dents, and structural defects such as misplacement or missing parts. [[link]](https://github.com/amazon-science/spot-diff)
++ MVTec 3D-AD:  over 4,000 high-resolution 3D scans across 10 object categories for unsupervised 3D anomaly detection and localization, with defect-free training data, defective test samples, and precise ground-truth annotations. [[link]](https://www.mvtec.com/company/research/datasets/mvtec-3d-ad)
 ## Other-resources
