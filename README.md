@@ -13,8 +13,10 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 ## Papers
 
-#### Traditional augmentation methods
+### Non-generative methods
 + Dongyun Lin, Yanpeng Cao, Wenbing Zhu, Yiqun Li: "*Few-Shot Defect Segmentation Leveraging Abundant Normal Training Samples Through Normal Background Regularization and Crop-and-Paste Operation.*" ICME (2021) [[pdf]](https://arxiv.org/pdf/2007.09438)
+
+### Generative methods
 
 #### GAN-based methods
 + Shuanlong Niu, Bin Li, Xinggang Wang, HuiLin: "*Defect Image Sample Generation With GAN for Improving Defect Recognition.*" IEEE TASE (2020) [[pdf]](https://ieeexplore.ieee.org/abstract/document/9000806)
@@ -33,7 +35,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Ying Jin, Jinlong Peng, Qingdong He, Teng Hu, Jiafu Wu, Hao Chen, Haoxuan Wang, Wenbing Zhu, Mingmin Chi, Jun Liu, Yabiao Wang: "*Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation.*" CVPR (2025) [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/papers/Jin_Dual-Interrelated_Diffusion_Model_for_Few-Shot_Anomaly_Image_Generation_CVPR_2025_paper.pdf) [[code]](https://github.com/yinyjin/DualAnoDiff)
 + Han Sun, Yunkang Cao, Hao Dong, Olga Fink: "*Unseen Visual Anomaly Generation.*" CVPR (2025) [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_Unseen_Visual_Anomaly_Generation_CVPR_2025_paper.pdf) [[code]](https://github.com/EPFL-IMOS/AnomalyAny)
 
-#### Other methods
+### Other methods
 + Hannah M. Schlüter, Jeremy Tan, Benjamin Hou, Bernhard Kainz: "*Natural Synthetic Anomalies for Self-Supervised Anomaly Detection and Localization.*" ECCV (2022) [[pdf]](https://arxiv.org/pdf/2109.15222) [[code]](https://github.com/hmsch/natural-synthetic-anomalies)
 
 ## Datasets
