@@ -14,6 +14,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 ## Papers
 
 #### Traditional augmentation methods
++ Dongyun Lin, Yanpeng Cao, Wenbing Zhu, Yiqun Li: "*Few-Shot Defect Segmentation Leveraging Abundant Normal Training Samples Through Normal Background Regularization and Crop-and-Paste Operation.*" ICME (2021) [[pdf]](https://arxiv.org/pdf/2007.09438)
 
 #### GAN-based methods
 + Shuanlong Niu, Bin Li, Xinggang Wang, HuiLin: "*Defect Image Sample Generation With GAN for Improving Defect Recognition.*" IEEE TASE (2020) [[pdf]](https://ieeexplore.ieee.org/abstract/document/9000806)
