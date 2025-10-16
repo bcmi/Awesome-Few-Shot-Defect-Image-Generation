@@ -34,7 +34,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Han Sun, Yunkang Cao, Hao Dong, Olga Fink: "*Unseen Visual Anomaly Generation.*" CVPR (2025) [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_Unseen_Visual_Anomaly_Generation_CVPR_2025_paper.pdf) [[code]](https://github.com/EPFL-IMOS/AnomalyAny)
 
 #### Other methods
-
++ Hannah M. Schlüter, Jeremy Tan, Benjamin Hou, Bernhard Kainz: "*Natural Synthetic Anomalies for Self-Supervised Anomaly Detection and Localization.*" ECCV (2022) [[pdf]](https://arxiv.org/pdf/2109.15222) [[code]](https://github.com/hmsch/natural-synthetic-anomalies)
 
 ## Datasets
 
