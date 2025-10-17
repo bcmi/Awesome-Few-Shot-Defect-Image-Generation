@@ -15,6 +15,9 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 
 ### Non-generative methods
 + Dongyun Lin, Yanpeng Cao, Wenbing Zhu, Yiqun Li: "*Few-Shot Defect Segmentation Leveraging Abundant Normal Training Samples Through Normal Background Regularization and Crop-and-Paste Operation.*" ICME (2021) [[pdf]](https://arxiv.org/pdf/2007.09438)
++ Vitjan Zavrtanik, Matej Kristan, Danijel Skočaj: "*DRAEM -- A discriminatively trained reconstruction embedding for surface anomaly detection.*" ICCV (2021) [[pdf]](https://arxiv.org/pdf/2108.07610) [[code]](https://github.com/VitjanZ/DRAEM)
++ Chun-Liang Li, Kihyuk Sohn, Jinsung Yoon, Tomas Pfister: "*CutPaste: Self-Supervised Learning for Anomaly Detection and Localization.*" CVPR (2021) [[pdf]](https://arxiv.org/pdf/2104.04015) [[code]](https://github.com/LilitYolyan/CutPaste)
++ Hui Zhang, Zuxuan Wu, Zheng Wang, Zhineng Chen, Yu-Gang Jiang: "*Prototypical Residual Networks for Anomaly Detection and Localization.*" CVPR (2023) [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Prototypical_Residual_Networks_for_Anomaly_Detection_and_Localization_CVPR_2023_paper.pdf) [[code]](https://github.com/xcyao00/PRNet)
 
 ### Generative methods
 
