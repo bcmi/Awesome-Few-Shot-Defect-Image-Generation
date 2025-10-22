@@ -7,9 +7,12 @@ A curated list of resources including papers, datasets, and relevant links perta
 Contributions are welcome.  If you wish to contribute, feel free to send a pull request. If you have suggestions for new sections to be included, please raise an issue and discuss before sending a pull request.
 
 ## Table of Contents
++ [Surveys](#Surveys)
 + [Papers](#Papers)
 + [Datasets](#Datasets)
 + [Other Resources](#Other-resources)
+
+## Surveys
 
 ## Papers
 
@@ -27,6 +30,8 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Yuxuan Duan, Yan Hong, Li Niu, Liqing Zhang: "*Few-Shot Defect Image Generation via Defect-Aware Feature Manipulation.*" AAAI (2023) [[pdf]](https://arxiv.org/pdf/2303.02389) [[code]](https://github.com/Ldhlwh/DFMGAN)
 
 #### Diffusion-based methods
+
+##### SD-based methods
 + Musawar Ali, Nicola Fioraio, Samuele Salti, Luigi Di Stefano: "AnomalyControl: Few-Shot Anomaly Generation by ControlNet Inpainting.*" IEEE Access (2024) [[pdf]](https://ieeexplore.ieee.org/document/10806704)
 + Qianzi Yu, Kai Zhu, Yang Cao, Feijie Xia, Yu Kang: "*TF²: Few-Shot Text-Free Training-Free Defect Image Generation for Industrial Anomaly Inspection.*" IEEE TCSVT (2024) [[pdf]](https://ieeexplore.ieee.org/document/10587314)
 + Adnan Md Tayeb, Hope Leticia Nakayiza , Heejae Shin, Seungmin Lee, Chaesoo Lee, YeongHun Lee, Dong-Seong Kim, Jae-Min Lee: "*DefectGen: Few-Shot Defect Image Generation
@@ -40,6 +45,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Ying Jin, Jinlong Peng, Qingdong He, Teng Hu, Jiafu Wu, Hao Chen, Haoxuan Wang, Wenbing Zhu, Mingmin Chi, Jun Liu, Yabiao Wang: "*Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation.*" CVPR (2025) [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/papers/Jin_Dual-Interrelated_Diffusion_Model_for_Few-Shot_Anomaly_Image_Generation_CVPR_2025_paper.pdf) [[code]](https://github.com/yinyjin/DualAnoDiff)
 + Han Sun, Yunkang Cao, Hao Dong, Olga Fink: "*Unseen Visual Anomaly Generation.*" CVPR (2025) [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_Unseen_Visual_Anomaly_Generation_CVPR_2025_paper.pdf) [[code]](https://github.com/EPFL-IMOS/AnomalyAny)
 
+##### FLUX-based methods
 #### Other-based methods
 + Hannah M. Schlüter, Jeremy Tan, Benjamin Hou, Bernhard Kainz: "*Natural Synthetic Anomalies for Self-Supervised Anomaly Detection and Localization.*" ECCV (2022) [[pdf]](https://arxiv.org/pdf/2109.15222) [[code]](https://github.com/hmsch/natural-synthetic-anomalies)
 
@@ -47,4 +53,5 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + MVTec AD:  5354 high-resolution RGB images across 15 categories — 10 object classes (e.g., bottle, cable, metal nut) and 5 texture classes (e.g., carpet, leather, tile). Each category includes a variety of anomaly types such as scratches, dents, contaminations, or missing parts, totaling 73 distinct defect types. [[link]](https://www.mvtec.com/company/research/datasets/mvtec-ad/)
 + VisA:  12 subsets with 10,821 images (9,621 normal, 1,200 anomalous) covering diverse objects. Anomalies involve surface defects like scratches and dents, and structural defects such as misplacement or missing parts. [[link]](https://github.com/amazon-science/spot-diff)
 + MVTec 3D-AD:  over 4,000 high-resolution 3D scans across 10 object categories for unsupervised 3D anomaly detection and localization, with defect-free training data, defective test samples, and precise ground-truth annotations. [[link]](https://www.mvtec.com/company/research/datasets/mvtec-3d-ad)
++ Kaputt:  a large-scale and realistic dataset for visual defect detection, containing 238K images, 29K defective samples, and 48K unique items with detailed annotations. It features diverse appearances, poses, and real-world noise, offering a challenging benchmark that exposes the limitations of current defect detection methods. [[link]](https://www.kaputt-dataset.com/)
 ## Other-resources
