@@ -13,6 +13,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + [Other Resources](#Other-resources)
 
 ## Surveys
++ Yang Liu, Jing Liu, Chengfang Li, Rui Xi, Wenchao Li, Liang Cao, Jin Wang, Laurence T. Yang, Junsong Yuan, Wei Zhou: "*Anomaly Detection and Generation with Diffusion Models: A Survey.*" arXiv (2025) [[pdf]](https://arxiv.org/pdf/2506.09368)
 
 ## Papers
 
