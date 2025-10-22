@@ -15,6 +15,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 ## Surveys
 + Yunkang Cao, Xiaohao Xu, Jiangning Zhang, Yuqi Cheng, Xiaonan Huang, Guansong Pang, Weiming Shen: "*A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect.*" arXiv (2024) [[pdf]](https://arxiv.org/pdf/2401.16402)
 + Yang Liu, Jing Liu, Chengfang Li, Rui Xi, Wenchao Li, Liang Cao, Jin Wang, Laurence T. Yang, Junsong Yuan, Wei Zhou: "*Anomaly Detection and Generation with Diffusion Models: A Survey.*" arXiv (2025) [[pdf]](https://arxiv.org/pdf/2506.09368)
++ Xichen Xu, Yanshu Wang, Yawen Huang, Jiaqi Liu, Xiaoning Lei, Guoyang Xie, Guannan Jiang, Zhichao Lu: "*A Survey on Industrial Anomalies Synthesis.*" arXiv (2025) [[pdf]](https://arxiv.org/pdf/2502.16412)
 
 ## Papers
 
