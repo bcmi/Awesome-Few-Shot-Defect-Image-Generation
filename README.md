@@ -47,6 +47,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Zhewei Dai, Shilei Zeng, Haotian Liu, Xurui Li, Feng Xue, Yu Zhou: "*SeaS: Few-shot Industrial Anomaly Image Generation with Separation and Sharing Fine-tuning.*" ICCV (2025) [[pdf]](https://arxiv.org/pdf/2410.14987) [[code]](https://github.com/HUST-SLOW/SeaS)
 + Ying Jin, Jinlong Peng, Qingdong He, Teng Hu, Jiafu Wu, Hao Chen, Haoxuan Wang, Wenbing Zhu, Mingmin Chi, Jun Liu, Yabiao Wang: "*Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation.*" CVPR (2025) [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/papers/Jin_Dual-Interrelated_Diffusion_Model_for_Few-Shot_Anomaly_Image_Generation_CVPR_2025_paper.pdf) [[code]](https://github.com/yinyjin/DualAnoDiff)
 + Han Sun, Yunkang Cao, Hao Dong, Olga Fink: "*Unseen Visual Anomaly Generation.*" CVPR (2025) [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_Unseen_Visual_Anomaly_Generation_CVPR_2025_paper.pdf) [[code]](https://github.com/EPFL-IMOS/AnomalyAny)
++ Ruyi Xu, Yen-Tzu Chiu, Tai-I Chen, Oscar Chew, Yung-Yu Chuang, Wen-Huang Cheng: "*Training-Free Industrial Defect Generation with Diffusion Models.*" ICCV (2025) [[pdf]](https://openaccess.thecvf.com/content/ICCV2025/papers/Xu_Training-Free_Industrial_Defect_Generation_with_Diffusion_Models_ICCV_2025_paper.pdf) [[code]](https://github.com/rubymiaomiao/TF-IDG)
 
 ##### FLUX-based methods
 #### Other-based methods
