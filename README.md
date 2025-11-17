@@ -49,7 +49,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Han Sun, Yunkang Cao, Hao Dong, Olga Fink: "*Unseen Visual Anomaly Generation.*" CVPR (2025) [[pdf]](https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_Unseen_Visual_Anomaly_Generation_CVPR_2025_paper.pdf) [[code]](https://github.com/EPFL-IMOS/AnomalyAny)
 + Jaewoo Song, Daemin Park, Kanghyun Baek, Sangyub Lee, Jooyoung Choi, Eunji Kim, Sungroh Yoon: "*DefectFill: Realistic Defect Generation with Inpainting Diffusion Model for Visual Inspection.*" CVPR (2025) [[pdf]](https://arxiv.org/pdf/2503.13985)
 + Ruyi Xu, Yen-Tzu Chiu, Tai-I Chen, Oscar Chew, Yung-Yu Chuang, Wen-Huang Cheng: "*Training-Free Industrial Defect Generation with Diffusion Models.*" ICCV (2025) [[pdf]](https://openaccess.thecvf.com/content/ICCV2025/papers/Xu_Training-Free_Industrial_Defect_Generation_with_Diffusion_Models_ICCV_2025_paper.pdf) [[code]](https://github.com/rubymiaomiao/TF-IDG)
-+ Yuxin Jiang, Wei Luo, Hui Zhang, Qiyu Chen, Haiming Yao, Weiming Shen, Yunkang Cao: "*Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation.*" AAAI (2026) [[pdf]](https://arxiv.org/pdf/2511.10020)
++ Yuxin Jiang, Wei Luo, Hui Zhang, Qiyu Chen, Haiming Yao, Weiming Shen, Yunkang Cao: "*Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation.*" AAAI (2026) [[pdf]](https://arxiv.org/pdf/2511.10020)[[code]](https://github.com/yuxin-jiang/Anomagic)
 
 ##### FLUX-based methods
 #### Other-based methods
