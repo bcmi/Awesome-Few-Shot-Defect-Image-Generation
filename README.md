@@ -51,6 +51,9 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Ruyi Xu, Yen-Tzu Chiu, Tai-I Chen, Oscar Chew, Yung-Yu Chuang, Wen-Huang Cheng: "*Training-Free Industrial Defect Generation with Diffusion Models.*" ICCV (2025) [[pdf]](https://openaccess.thecvf.com/content/ICCV2025/papers/Xu_Training-Free_Industrial_Defect_Generation_with_Diffusion_Models_ICCV_2025_paper.pdf) [[code]](https://github.com/rubymiaomiao/TF-IDG)
 + Zhangyu Lai, Yilin Lu, Xinyang Li, Jianghang Lin, Yansong Qu, Liujuan Cao, Ming Li, Rongrong Ji: "*AnomalyPainter: Vision-Language-Diffusion Synergy for Zero-Shot Realistic and Diverse Industrial Anomaly Synthesis.*" arXiv (2025) [[pdf]](https://arxiv.org/pdf/2503.07253)
 + Chaoran Xu, Chengkan Lv, Qiyu Chen, Yunkang Cao, Feng Zhang, Zhengtao Zhang: "*DeltaDeno: Zero-Shot Anomaly Generation via Delta-Denoising Attribution.*" arXiv (2025) [[pdf]](https://arxiv.org/pdf/2511.16920)
++ Shidan He, Lei Liu, Xiujun Shu, Bo Wang, Yuanhao Feng, Shen Zhao: "*AnomalyControl: Learning Cross-modal Semantic Features for Controllable Anomaly Synthesis.*" arXiv (2025) [[pdf]](https://arxiv.org/pdf/2412.06510) [[code]](https://github.com/DaniellaHe/AnomalyControl)
++ Yuanyi Duan, Wei Xu, Qinlong Wu, Guo-Sen Xie, Fang Zhao, Caifeng Shan: "*AnomalyControl: Highly-Aligned Anomalous Image Generation
+with Controlled Diffusion Model.*" ACM MM (2025) [[pdf]](https://dl.acm.org/doi/epdf/10.1145/3746027.3755274)
 + Yuxin Jiang, Wei Luo, Hui Zhang, Qiyu Chen, Haiming Yao, Weiming Shen, Yunkang Cao: "*Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation.*" AAAI (2026) [[pdf]](https://arxiv.org/pdf/2511.10020)[[code]](https://github.com/yuxin-jiang/Anomagic)
 
 ##### FLUX-based methods
