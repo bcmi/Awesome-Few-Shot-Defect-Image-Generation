@@ -56,6 +56,7 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 ##### FLUX-based methods
 #### Other-based methods
 + Hannah M. Schlüter, Jeremy Tan, Benjamin Hou, Bernhard Kainz: "*Natural Synthetic Anomalies for Self-Supervised Anomaly Detection and Localization.*" ECCV (2022) [[pdf]](https://arxiv.org/pdf/2109.15222) [[code]](https://github.com/hmsch/natural-synthetic-anomalies)
++ Yulim So, Seokho Kang: "*AnoStyler: Text-Driven Localized Anomaly Generation via Lightweight Style Transfer.*" AAAI (2026) [[pdf]](https://arxiv.org/pdf/2511.06687) [[code]](https://github.com/yulimso/AnoStyler)
 
 ## Datasets
 + MVTec AD:  5354 high-resolution RGB images across 15 categories — 10 object classes (e.g., bottle, cable, metal nut) and 5 texture classes (e.g., carpet, leather, tile). Each category includes a variety of anomaly types such as scratches, dents, contaminations, or missing parts, totaling 73 distinct defect types. [[link]](https://www.mvtec.com/company/research/datasets/mvtec-ad/)
